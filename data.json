@@ -1,0 +1,2768 @@
+{
+  "appearanceNotes" : {
+    "Czech Republic" : "Includes Czechoslovakia. Slovakia is listed separately.",
+    "DR Congo" : "Includes Zaire (1974).",
+    "Germany" : "Includes West Germany. East Germany (1974) is listed separately.",
+    "Indonesia" : "Includes the Dutch East Indies (1938).",
+    "Russia" : "Includes the Soviet Union.",
+    "Serbia" : "Includes Yugoslavia and Serbia and Montenegro."
+  },
+  "appearances" : [
+    {
+      "count" : 23,
+      "name" : "Brazil"
+    },
+    {
+      "count" : 21,
+      "name" : "Germany"
+    },
+    {
+      "count" : 19,
+      "name" : "Argentina"
+    },
+    {
+      "count" : 18,
+      "name" : "Italy"
+    },
+    {
+      "count" : 18,
+      "name" : "Mexico"
+    },
+    {
+      "count" : 17,
+      "name" : "Spain"
+    },
+    {
+      "count" : 17,
+      "name" : "England"
+    },
+    {
+      "count" : 17,
+      "name" : "France"
+    },
+    {
+      "count" : 15,
+      "name" : "Belgium"
+    },
+    {
+      "count" : 15,
+      "name" : "Uruguay"
+    },
+    {
+      "count" : 13,
+      "name" : "Switzerland"
+    },
+    {
+      "count" : 13,
+      "name" : "Sweden"
+    },
+    {
+      "count" : 13,
+      "name" : "Serbia"
+    },
+    {
+      "count" : 12,
+      "name" : "South Korea"
+    },
+    {
+      "count" : 12,
+      "name" : "USA"
+    },
+    {
+      "count" : 12,
+      "name" : "Netherlands"
+    },
+    {
+      "count" : 11,
+      "name" : "Russia"
+    },
+    {
+      "count" : 10,
+      "name" : "Czech Republic"
+    },
+    {
+      "count" : 9,
+      "name" : "Portugal"
+    },
+    {
+      "count" : 9,
+      "name" : "Scotland"
+    },
+    {
+      "count" : 9,
+      "name" : "Paraguay"
+    },
+    {
+      "count" : 9,
+      "name" : "Hungary"
+    },
+    {
+      "count" : 9,
+      "name" : "Poland"
+    },
+    {
+      "count" : 9,
+      "name" : "Chile"
+    },
+    {
+      "count" : 8,
+      "name" : "Japan"
+    },
+    {
+      "count" : 8,
+      "name" : "Cameroon"
+    },
+    {
+      "count" : 8,
+      "name" : "Austria"
+    },
+    {
+      "count" : 7,
+      "name" : "Australia"
+    },
+    {
+      "count" : 7,
+      "name" : "Croatia"
+    },
+    {
+      "count" : 7,
+      "name" : "Iran"
+    },
+    {
+      "count" : 7,
+      "name" : "Saudi Arabia"
+    },
+    {
+      "count" : 7,
+      "name" : "Bulgaria"
+    },
+    {
+      "count" : 7,
+      "name" : "Morocco"
+    },
+    {
+      "count" : 7,
+      "name" : "Tunisia"
+    },
+    {
+      "count" : 7,
+      "name" : "Colombia"
+    },
+    {
+      "count" : 7,
+      "name" : "Romania"
+    },
+    {
+      "count" : 6,
+      "name" : "Costa Rica"
+    },
+    {
+      "count" : 6,
+      "name" : "Nigeria"
+    },
+    {
+      "count" : 6,
+      "name" : "Denmark"
+    },
+    {
+      "count" : 5,
+      "name" : "Ghana"
+    },
+    {
+      "count" : 5,
+      "name" : "Ecuador"
+    },
+    {
+      "count" : 5,
+      "name" : "Algeria"
+    },
+    {
+      "count" : 5,
+      "name" : "Peru"
+    },
+    {
+      "count" : 4,
+      "name" : "Senegal"
+    },
+    {
+      "count" : 4,
+      "name" : "Ivory Coast"
+    },
+    {
+      "count" : 4,
+      "name" : "Norway"
+    },
+    {
+      "count" : 4,
+      "name" : "South Africa"
+    },
+    {
+      "count" : 4,
+      "name" : "Egypt"
+    },
+    {
+      "count" : 3,
+      "name" : "Canada"
+    },
+    {
+      "count" : 3,
+      "name" : "Northern Ireland"
+    },
+    {
+      "count" : 3,
+      "name" : "Honduras"
+    },
+    {
+      "count" : 3,
+      "name" : "Republic of Ireland"
+    },
+    {
+      "count" : 3,
+      "name" : "Greece"
+    },
+    {
+      "count" : 3,
+      "name" : "Türkiye"
+    },
+    {
+      "count" : 3,
+      "name" : "New Zealand"
+    },
+    {
+      "count" : 3,
+      "name" : "Bolivia"
+    },
+    {
+      "count" : 2,
+      "name" : "Qatar"
+    },
+    {
+      "count" : 2,
+      "name" : "DR Congo"
+    },
+    {
+      "count" : 2,
+      "name" : "Bosnia and Herzegovina"
+    },
+    {
+      "count" : 2,
+      "name" : "Haiti"
+    },
+    {
+      "count" : 2,
+      "name" : "Iraq"
+    },
+    {
+      "count" : 2,
+      "name" : "Panama"
+    },
+    {
+      "count" : 2,
+      "name" : "Wales"
+    },
+    {
+      "count" : 2,
+      "name" : "North Korea"
+    },
+    {
+      "count" : 2,
+      "name" : "El Salvador"
+    },
+    {
+      "count" : 2,
+      "name" : "Slovenia"
+    },
+    {
+      "count" : 1,
+      "name" : "Cabo Verde"
+    },
+    {
+      "count" : 1,
+      "name" : "Curaçao"
+    },
+    {
+      "count" : 1,
+      "name" : "Jordan"
+    },
+    {
+      "count" : 1,
+      "name" : "Uzbekistan"
+    },
+    {
+      "count" : 1,
+      "name" : "Cuba"
+    },
+    {
+      "count" : 1,
+      "name" : "Indonesia"
+    },
+    {
+      "count" : 1,
+      "name" : "Israel"
+    },
+    {
+      "count" : 1,
+      "name" : "Kuwait"
+    },
+    {
+      "count" : 1,
+      "name" : "United Arab Emirates"
+    },
+    {
+      "count" : 1,
+      "name" : "Jamaica"
+    },
+    {
+      "count" : 1,
+      "name" : "China PR"
+    },
+    {
+      "count" : 1,
+      "name" : "Angola"
+    },
+    {
+      "count" : 1,
+      "name" : "Togo"
+    },
+    {
+      "count" : 1,
+      "name" : "Trinidad and Tobago"
+    },
+    {
+      "count" : 1,
+      "name" : "Ukraine"
+    },
+    {
+      "count" : 1,
+      "name" : "Iceland"
+    },
+    {
+      "count" : 1,
+      "name" : "Slovakia"
+    },
+    {
+      "count" : 1,
+      "name" : "East Germany"
+    }
+  ],
+  "competitions" : [
+    {
+      "accentHex" : 16740277,
+      "aliases" : {
+
+      },
+      "blurb" : "The women's senior world championship, first played in 1991.",
+      "editions" : [
+        {
+          "champion" : "United States",
+          "fourth" : "Germany",
+          "host" : "China",
+          "runnerUp" : "Norway",
+          "summary" : [
+
+          ],
+          "teams" : 12,
+          "third" : "Sweden",
+          "year" : 1991
+        },
+        {
+          "champion" : "Norway",
+          "fourth" : "China",
+          "host" : "Sweden",
+          "runnerUp" : "Germany",
+          "summary" : [
+
+          ],
+          "teams" : 12,
+          "third" : "United States",
+          "year" : 1995
+        },
+        {
+          "champion" : "United States",
+          "fourth" : "Norway",
+          "host" : "United States",
+          "runnerUp" : "China",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 1999
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "Canada",
+          "host" : "United States",
+          "runnerUp" : "Sweden",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "United States",
+          "year" : 2003
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "Norway",
+          "host" : "China",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "United States",
+          "year" : 2007
+        },
+        {
+          "champion" : "Japan",
+          "fourth" : "France",
+          "host" : "Germany",
+          "runnerUp" : "United States",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Sweden",
+          "year" : 2011
+        },
+        {
+          "champion" : "United States",
+          "fourth" : "Germany",
+          "host" : "Canada",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "England",
+          "year" : 2015
+        },
+        {
+          "champion" : "United States",
+          "fourth" : "England",
+          "host" : "France",
+          "runnerUp" : "Netherlands",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Sweden",
+          "year" : 2019
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Australia",
+          "host" : "Australia and New Zealand",
+          "runnerUp" : "England",
+          "summary" : [
+            "Spain beat England 1–0 in the final in Sydney to win their first Women's World Cup.",
+            "Sweden took third place, beating co-hosts Australia in the bronze-medal match."
+          ],
+          "teams" : 32,
+          "third" : "Sweden",
+          "year" : 2023
+        }
+      ],
+      "groups" : [
+
+      ],
+      "id" : "women",
+      "latestHeadline" : "Spain are the reigning champions after winning in 2023.",
+      "name" : "FIFA Women's World Cup",
+      "next" : {
+        "dates" : "24 Jun – 25 Jul 2027",
+        "hosts" : "Brazil",
+        "keyDates" : [
+          {
+            "label" : "Nov – Dec 2026",
+            "value" : "First phase of the inter-confederation play-off tournament"
+          },
+          {
+            "label" : "27 Feb 2027",
+            "value" : "Qualifying period ends"
+          },
+          {
+            "label" : "24 Jun 2027",
+            "value" : "Opening match, Brazil at the Maracanã"
+          },
+          {
+            "label" : "25 Jul 2027",
+            "value" : "Final at the Maracanã"
+          }
+        ],
+        "notes" : [
+          "The tournament has 64 matches in eight cities. Three places are decided by the play-off tournament, which has two phases (November–December 2026 and February 2027). Papua New Guinea have already secured a play-off place. The qualified list may have changed since this was compiled."
+        ],
+        "qualified" : [
+          "Algeria",
+          "Argentina",
+          "Australia",
+          "Brazil (host)",
+          "Cameroon",
+          "China PR",
+          "Colombia",
+          "Denmark",
+          "France",
+          "Germany",
+          "Japan",
+          "North Korea",
+          "South Korea",
+          "Malawi",
+          "Morocco",
+          "New Zealand",
+          "Philippines",
+          "Spain"
+        ],
+        "qualifiedCount" : 18,
+        "status" : "Qualifying is under way and runs until 27 February 2027.",
+        "teams" : 32,
+        "title" : "FIFA Women's World Cup 2027",
+        "venues" : [
+          {
+            "label" : "Rio de Janeiro",
+            "value" : "Estádio do Maracanã · opening match and final"
+          },
+          {
+            "label" : "São Paulo",
+            "value" : "Arena Itaquera"
+          },
+          {
+            "label" : "Belo Horizonte",
+            "value" : "Estádio Mineirão"
+          },
+          {
+            "label" : "Brasília",
+            "value" : "Estádio Nacional"
+          },
+          {
+            "label" : "Fortaleza",
+            "value" : "Arena Castelão"
+          },
+          {
+            "label" : "Porto Alegre",
+            "value" : "Estádio Beira-Rio"
+          },
+          {
+            "label" : "Recife",
+            "value" : "Arena de Pernambuco"
+          },
+          {
+            "label" : "Salvador",
+            "value" : "Arena Fonte Nova"
+          }
+        ]
+      },
+      "results" : [
+        {
+          "away" : "England",
+          "awayScore" : 0,
+          "date" : "Aug 20, 2023",
+          "detail" : [
+            "Spain beat England 1–0 to win their first Women's World Cup."
+          ],
+          "home" : "Spain",
+          "homeScore" : 1,
+          "resultLabel" : "FT",
+          "special" : true,
+          "stage" : "Final",
+          "status" : "finished",
+          "tournament" : "FIFA Women's World Cup 2023",
+          "venue" : "Stadium Australia, Sydney"
+        },
+        {
+          "away" : "Australia",
+          "awayScore" : 0,
+          "date" : "Aug 19, 2023",
+          "detail" : [
+            "Sweden beat co-hosts Australia to take third place."
+          ],
+          "home" : "Sweden",
+          "homeScore" : 2,
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Third-place match",
+          "status" : "finished",
+          "tournament" : "FIFA Women's World Cup 2023",
+          "venue" : "Suncorp Stadium, Brisbane"
+        }
+      ],
+      "tabLabel" : "Women's"
+    },
+    {
+      "accentHex" : 7115775,
+      "aliases" : {
+        "Soviet Union" : "Russia",
+        "West Germany" : "Germany",
+        "Yugoslavia" : "Serbia"
+      },
+      "blurb" : "The men's under-20 world championship, first played in 1977.",
+      "editions" : [
+        {
+          "champion" : "Soviet Union",
+          "fourth" : "Uruguay",
+          "host" : "Tunisia",
+          "runnerUp" : "Mexico",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 1977
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Poland",
+          "host" : "Japan",
+          "runnerUp" : "Soviet Union",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Uruguay",
+          "year" : 1979
+        },
+        {
+          "champion" : "West Germany",
+          "fourth" : "England",
+          "host" : "Australia",
+          "runnerUp" : "Qatar",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Romania",
+          "year" : 1981
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "South Korea",
+          "host" : "Mexico",
+          "runnerUp" : "Argentina",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Poland",
+          "year" : 1983
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Soviet Union",
+          "host" : "Soviet Union",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Nigeria",
+          "year" : 1985
+        },
+        {
+          "champion" : "Yugoslavia",
+          "fourth" : "Chile",
+          "host" : "Chile",
+          "runnerUp" : "West Germany",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "East Germany",
+          "year" : 1987
+        },
+        {
+          "champion" : "Portugal",
+          "fourth" : "United States",
+          "host" : "Saudi Arabia",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 1989
+        },
+        {
+          "champion" : "Portugal",
+          "fourth" : "Australia",
+          "host" : "Portugal",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Soviet Union",
+          "year" : 1991
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Australia",
+          "host" : "Australia",
+          "runnerUp" : "Ghana",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "England",
+          "year" : 1993
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Spain",
+          "host" : "Qatar",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Portugal",
+          "year" : 1995
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Ghana",
+          "host" : "Malaysia",
+          "runnerUp" : "Uruguay",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Republic of Ireland",
+          "year" : 1997
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Uruguay",
+          "host" : "Nigeria",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Mali",
+          "year" : 1999
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Paraguay",
+          "host" : "Argentina",
+          "runnerUp" : "Ghana",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Egypt",
+          "year" : 2001
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Argentina",
+          "host" : "United Arab Emirates",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Colombia",
+          "year" : 2003
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Morocco",
+          "host" : "Netherlands",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Brazil",
+          "year" : 2005
+        },
+        {
+          "champion" : "Argentina",
+          "fourth" : "Austria",
+          "host" : "Canada",
+          "runnerUp" : "Czech Republic",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Chile",
+          "year" : 2007
+        },
+        {
+          "champion" : "Ghana",
+          "fourth" : "Costa Rica",
+          "host" : "Egypt",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Hungary",
+          "year" : 2009
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "France",
+          "host" : "Colombia",
+          "runnerUp" : "Portugal",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Mexico",
+          "year" : 2011
+        },
+        {
+          "champion" : "France",
+          "fourth" : "Iraq",
+          "host" : "Türkiye",
+          "runnerUp" : "Uruguay",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Ghana",
+          "year" : 2013
+        },
+        {
+          "champion" : "Serbia",
+          "fourth" : "Senegal",
+          "host" : "New Zealand",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Mali",
+          "year" : 2015
+        },
+        {
+          "champion" : "England",
+          "fourth" : "Uruguay",
+          "host" : "South Korea",
+          "runnerUp" : "Venezuela",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Italy",
+          "year" : 2017
+        },
+        {
+          "champion" : "Ukraine",
+          "fourth" : "Italy",
+          "host" : "Poland",
+          "runnerUp" : "South Korea",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Ecuador",
+          "year" : 2019
+        },
+        {
+          "champion" : "Uruguay",
+          "fourth" : "South Korea",
+          "host" : "Argentina",
+          "runnerUp" : "Italy",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Israel",
+          "year" : 2023
+        },
+        {
+          "champion" : "Morocco",
+          "fourth" : "France",
+          "host" : "Chile",
+          "runnerUp" : "Argentina",
+          "summary" : [
+            "Morocco beat Argentina 2–0 in the final to win their first title. Colombia took third place, beating France 1–0.",
+            "Othmane Maamma of Morocco won the Golden Ball and Benjamin Cremaschi of the United States won the Golden Boot with 5 goals."
+          ],
+          "teams" : 24,
+          "third" : "Colombia",
+          "year" : 2025
+        }
+      ],
+      "groups" : [
+
+      ],
+      "id" : "u20boys",
+      "latestHeadline" : "Morocco are the reigning champions after winning in 2025.",
+      "name" : "FIFA U-20 World Cup",
+      "next" : {
+        "dates" : "17 Sep – 9 Oct 2027",
+        "hosts" : "Azerbaijan and Uzbekistan",
+        "keyDates" : [
+          {
+            "label" : "H1 2027",
+            "value" : "Remaining continental qualifiers"
+          },
+          {
+            "label" : "17 Sep 2027",
+            "value" : "Tournament starts"
+          },
+          {
+            "label" : "9 Oct 2027",
+            "value" : "Final"
+          }
+        ],
+        "notes" : [
+          "This will be the 25th edition. Stadiums haven't been confirmed here."
+        ],
+        "qualified" : [
+          "Azerbaijan (host)",
+          "Uzbekistan (host)",
+          "Croatia",
+          "Germany",
+          "Spain",
+          "Ukraine",
+          "Canada",
+          "Costa Rica",
+          "Mexico",
+          "United States",
+          "New Zealand",
+          "Tahiti"
+        ],
+        "qualifiedCount" : 12,
+        "status" : "Twelve of 24 places are filled. The remaining qualifiers are played in the first half of 2027.",
+        "teams" : 24,
+        "title" : "FIFA U-20 World Cup 2027",
+        "venues" : [
+          {
+            "label" : "Azerbaijan",
+            "value" : "Co-host"
+          },
+          {
+            "label" : "Uzbekistan",
+            "value" : "Co-host"
+          }
+        ]
+      },
+      "results" : [
+        {
+          "away" : "Argentina",
+          "awayScore" : 0,
+          "date" : "Oct 19, 2025",
+          "detail" : [
+            "Morocco won their first U-20 World Cup title. Othmane Maamma of Morocco won the Golden Ball."
+          ],
+          "home" : "Morocco",
+          "homeScore" : 2,
+          "resultLabel" : "FT",
+          "special" : true,
+          "stage" : "Final",
+          "status" : "finished",
+          "tournament" : "FIFA U-20 World Cup 2025",
+          "venue" : "Chile"
+        },
+        {
+          "away" : "France",
+          "awayScore" : 0,
+          "date" : "Oct 2025",
+          "detail" : [
+            "Colombia took third place."
+          ],
+          "home" : "Colombia",
+          "homeScore" : 1,
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Third-place match",
+          "status" : "finished",
+          "tournament" : "FIFA U-20 World Cup 2025",
+          "venue" : "Chile"
+        }
+      ],
+      "tabLabel" : "U20 Boys"
+    },
+    {
+      "accentHex" : 13073919,
+      "aliases" : {
+
+      },
+      "blurb" : "The women's under-20 world championship, first played in 2002.",
+      "editions" : [
+        {
+          "champion" : "United States",
+          "fourth" : "Brazil",
+          "host" : "Canada",
+          "runnerUp" : "Canada",
+          "summary" : [
+
+          ],
+          "teams" : 12,
+          "third" : "Germany",
+          "year" : 2002
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "Brazil",
+          "host" : "Thailand",
+          "runnerUp" : "China",
+          "summary" : [
+
+          ],
+          "teams" : 12,
+          "third" : "United States",
+          "year" : 2004
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "United States",
+          "host" : "Russia",
+          "runnerUp" : "China",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 2006
+        },
+        {
+          "champion" : "United States",
+          "fourth" : "France",
+          "host" : "Chile",
+          "runnerUp" : "North Korea",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Germany",
+          "year" : 2008
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "Colombia",
+          "host" : "Germany",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "South Korea",
+          "year" : 2010
+        },
+        {
+          "champion" : "United States",
+          "fourth" : "Nigeria",
+          "host" : "Japan",
+          "runnerUp" : "Germany",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Japan",
+          "year" : 2012
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "North Korea",
+          "host" : "Canada",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "France",
+          "year" : 2014
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "United States",
+          "host" : "Papua New Guinea",
+          "runnerUp" : "France",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Japan",
+          "year" : 2016
+        },
+        {
+          "champion" : "Japan",
+          "fourth" : "France",
+          "host" : "France",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "England",
+          "year" : 2018
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Netherlands",
+          "host" : "Costa Rica",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 2022
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "Netherlands",
+          "host" : "Colombia",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "United States",
+          "year" : 2024
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Italy",
+          "host" : "Poland",
+          "runnerUp" : "North Korea",
+          "summary" : [
+            "Spain beat North Korea 4–3 on penalties after a 0–0 draw in the final on 27 September 2026 in Łódź. It was Spain's second title.",
+            "Colombia took third place, beating Italy 4–3 on penalties after a 1–1 draw, for their first medal at the tournament.",
+            "Pau Comendador of Spain won the Golden Boot. Hosts Poland were knocked out in the round of 16."
+          ],
+          "teams" : 24,
+          "third" : "Colombia",
+          "year" : 2026
+        }
+      ],
+      "groups" : [
+
+      ],
+      "id" : "u20girls",
+      "latestHeadline" : "Spain are the reigning champions after winning in 2026.",
+      "name" : "FIFA U-20 Women's World Cup",
+      "next" : {
+        "dates" : "To be confirmed",
+        "hosts" : "To be confirmed",
+        "keyDates" : [
+          {
+            "label" : "2028",
+            "value" : "Next edition, dates to be confirmed"
+          }
+        ],
+        "notes" : [
+          "The tournament is played every two years and now has 24 teams."
+        ],
+        "qualified" : [
+
+        ],
+        "qualifiedCount" : 0,
+        "status" : "The host and dates haven't been announced and qualifying hasn't started.",
+        "teams" : 24,
+        "title" : "FIFA U-20 Women's World Cup 2028",
+        "venues" : [
+          {
+            "label" : "Host",
+            "value" : "To be confirmed"
+          }
+        ]
+      },
+      "results" : [
+        {
+          "away" : "North Korea",
+          "awayScore" : 0,
+          "date" : "Sep 27, 2026",
+          "detail" : [
+            "Spain won 4–3 on penalties after a goalless draw, extra time included. It was their second title, and they ended North Korea's run as defending champions."
+          ],
+          "home" : "Spain",
+          "homeScore" : 0,
+          "resultLabel" : "PENS",
+          "special" : true,
+          "stage" : "Final",
+          "status" : "finished",
+          "tournament" : "FIFA U-20 Women's World Cup 2026",
+          "venue" : "Stadion Miejski LKS Łódź, Poland"
+        },
+        {
+          "away" : "Italy",
+          "awayScore" : 1,
+          "date" : "Sep 2026",
+          "detail" : [
+            "Colombia won 4–3 on penalties after a 1–1 draw, extra time included, for their first medal at the tournament."
+          ],
+          "home" : "Colombia",
+          "homeScore" : 1,
+          "resultLabel" : "PENS",
+          "special" : false,
+          "stage" : "Third-place match",
+          "status" : "finished",
+          "tournament" : "FIFA U-20 Women's World Cup 2026",
+          "venue" : "Poland"
+        }
+      ],
+      "tabLabel" : "U20 Girls"
+    },
+    {
+      "accentHex" : 3131626,
+      "aliases" : {
+        "Soviet Union" : "Russia",
+        "West Germany" : "Germany"
+      },
+      "blurb" : "The men's under-17 world championship, first played in 1985. Qatar hosts every edition from 2025 to 2029.",
+      "editions" : [
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Guinea",
+          "host" : "China",
+          "runnerUp" : "West Germany",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Brazil",
+          "year" : 1985
+        },
+        {
+          "champion" : "Soviet Union",
+          "fourth" : "Italy",
+          "host" : "Canada",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Ivory Coast",
+          "year" : 1987
+        },
+        {
+          "champion" : "Saudi Arabia",
+          "fourth" : "Bahrain",
+          "host" : "Scotland",
+          "runnerUp" : "Scotland",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Portugal",
+          "year" : 1989
+        },
+        {
+          "champion" : "Ghana",
+          "fourth" : "Qatar",
+          "host" : "Italy",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Argentina",
+          "year" : 1991
+        },
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Poland",
+          "host" : "Japan",
+          "runnerUp" : "Ghana",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Chile",
+          "year" : 1993
+        },
+        {
+          "champion" : "Ghana",
+          "fourth" : "Oman",
+          "host" : "Ecuador",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Argentina",
+          "year" : 1995
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Germany",
+          "host" : "Egypt",
+          "runnerUp" : "Ghana",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Spain",
+          "year" : 1997
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "United States",
+          "host" : "New Zealand",
+          "runnerUp" : "Australia",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Ghana",
+          "year" : 1999
+        },
+        {
+          "champion" : "France",
+          "fourth" : "Argentina",
+          "host" : "Trinidad and Tobago",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Burkina Faso",
+          "year" : 2001
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Colombia",
+          "host" : "Finland",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Argentina",
+          "year" : 2003
+        },
+        {
+          "champion" : "Mexico",
+          "fourth" : "Türkiye",
+          "host" : "Peru",
+          "runnerUp" : "Brazil",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Netherlands",
+          "year" : 2005
+        },
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Ghana",
+          "host" : "South Korea",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Germany",
+          "year" : 2007
+        },
+        {
+          "champion" : "Switzerland",
+          "fourth" : "Colombia",
+          "host" : "Nigeria",
+          "runnerUp" : "Nigeria",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Spain",
+          "year" : 2009
+        },
+        {
+          "champion" : "Mexico",
+          "fourth" : "Brazil",
+          "host" : "Mexico",
+          "runnerUp" : "Uruguay",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Germany",
+          "year" : 2011
+        },
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Argentina",
+          "host" : "United Arab Emirates",
+          "runnerUp" : "Mexico",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Sweden",
+          "year" : 2013
+        },
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Mexico",
+          "host" : "Chile",
+          "runnerUp" : "Mali",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Belgium",
+          "year" : 2015
+        },
+        {
+          "champion" : "England",
+          "fourth" : "Mali",
+          "host" : "India",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Brazil",
+          "year" : 2017
+        },
+        {
+          "champion" : "Brazil",
+          "fourth" : "Netherlands",
+          "host" : "Brazil",
+          "runnerUp" : "Mexico",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "France",
+          "year" : 2019
+        },
+        {
+          "champion" : "Germany",
+          "fourth" : "Argentina",
+          "host" : "Indonesia",
+          "runnerUp" : "France",
+          "summary" : [
+
+          ],
+          "teams" : 24,
+          "third" : "Mali",
+          "year" : 2023
+        },
+        {
+          "champion" : "Portugal",
+          "fourth" : "Brazil",
+          "host" : "Qatar",
+          "runnerUp" : "Austria",
+          "summary" : [
+            "Portugal beat Austria 1–0 in the final to win their first U-17 World Cup. It was the first edition with 48 teams."
+          ],
+          "teams" : 48,
+          "third" : "Italy",
+          "year" : 2025
+        }
+      ],
+      "groups" : [
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group A: Qatar, Panama, Egypt, Greece",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group B: South Korea, Uganda, New Caledonia, Ecuador",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group C: Argentina, Australia, Mozambique, Denmark",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group D: France, Haiti, Saudi Arabia, Uruguay",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group E: Italy, Jamaica, Ivory Coast, Uzbekistan",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group F: Senegal, Croatia, Cuba, Tajikistan",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group G: Mali, New Zealand, Belgium, Vietnam",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group H: Spain, China PR, Fiji, Morocco",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group I: Brazil, Republic of Ireland, Tanzania, Costa Rica",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group J: United States, Montenegro, Chile, Algeria",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group K: Mexico, Romania, Cameroon, Venezuela",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        },
+        {
+          "date" : "From 19 Nov 2026",
+          "detail" : [
+            "The group stage is played on eight pitches at Aspire Zone in Al Rayyan. Match dates within the group stage aren't listed here."
+          ],
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Group stage",
+          "status" : "upcoming",
+          "title" : "Group L: Japan, Colombia, Serbia, Honduras",
+          "tournament" : "FIFA U-17 World Cup 2026",
+          "venue" : "Aspire Zone, Al Rayyan"
+        }
+      ],
+      "id" : "u17boys",
+      "latestHeadline" : "Portugal are the reigning champions after winning in 2025.",
+      "name" : "FIFA U-17 World Cup",
+      "next" : {
+        "dates" : "19 Nov – 13 Dec 2026",
+        "hosts" : "Qatar",
+        "keyDates" : [
+          {
+            "label" : "19 Nov 2026",
+            "value" : "Tournament starts"
+          },
+          {
+            "label" : "13 Dec 2026",
+            "value" : "Bronze final and final"
+          }
+        ],
+        "notes" : [
+          "This is the 21st edition. Group-stage matches include Spain v Morocco, Japan v Colombia, France v Uruguay and hosts Qatar v Egypt. Portugal are the defending champions."
+        ],
+        "qualified" : [
+          "Qatar (host)",
+          "Saudi Arabia",
+          "Tajikistan",
+          "Australia",
+          "Uzbekistan",
+          "China PR",
+          "Japan",
+          "South Korea",
+          "Vietnam",
+          "Tanzania",
+          "Cameroon",
+          "Egypt",
+          "Ivory Coast",
+          "Morocco",
+          "Algeria",
+          "Mali",
+          "Senegal",
+          "Mozambique",
+          "Uganda",
+          "Costa Rica",
+          "Haiti",
+          "Panama",
+          "United States",
+          "Cuba",
+          "Honduras",
+          "Jamaica",
+          "Mexico",
+          "Brazil",
+          "Argentina",
+          "Colombia",
+          "Ecuador",
+          "Chile",
+          "Uruguay",
+          "Venezuela",
+          "New Caledonia",
+          "New Zealand",
+          "Fiji",
+          "Spain",
+          "Belgium",
+          "Montenegro",
+          "Croatia",
+          "Denmark",
+          "France",
+          "Greece",
+          "Italy",
+          "Republic of Ireland",
+          "Romania",
+          "Serbia"
+        ],
+        "qualifiedCount" : 48,
+        "status" : "All 48 teams are confirmed and the draw was held in Zurich on 21 May 2026.",
+        "teams" : 48,
+        "title" : "FIFA U-17 World Cup 2026",
+        "venues" : [
+          {
+            "label" : "Al Rayyan",
+            "value" : "Aspire Zone · eight pitches for the group stage"
+          },
+          {
+            "label" : "Doha",
+            "value" : "Ahmad Bin Ali Stadium · hosts the final"
+          }
+        ]
+      },
+      "results" : [
+        {
+          "away" : "Austria",
+          "awayScore" : 0,
+          "date" : "Nov 2025",
+          "detail" : [
+            "Portugal won their first U-17 World Cup."
+          ],
+          "home" : "Portugal",
+          "homeScore" : 1,
+          "resultLabel" : "FT",
+          "special" : true,
+          "stage" : "Final",
+          "status" : "finished",
+          "tournament" : "FIFA U-17 World Cup 2025",
+          "venue" : "Qatar"
+        }
+      ],
+      "tabLabel" : "U17 Boys"
+    },
+    {
+      "accentHex" : 16747095,
+      "aliases" : {
+
+      },
+      "blurb" : "The women's under-17 world championship, first played in 2008. Morocco hosts every edition from 2025 to 2029.",
+      "editions" : [
+        {
+          "champion" : "North Korea",
+          "fourth" : "England",
+          "host" : "New Zealand",
+          "runnerUp" : "United States",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Germany",
+          "year" : 2008
+        },
+        {
+          "champion" : "South Korea",
+          "fourth" : "North Korea",
+          "host" : "Trinidad and Tobago",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Spain",
+          "year" : 2010
+        },
+        {
+          "champion" : "France",
+          "fourth" : "Germany",
+          "host" : "Azerbaijan",
+          "runnerUp" : "North Korea",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Ghana",
+          "year" : 2012
+        },
+        {
+          "champion" : "Japan",
+          "fourth" : "Venezuela",
+          "host" : "Costa Rica",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Italy",
+          "year" : 2014
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "Venezuela",
+          "host" : "Jordan",
+          "runnerUp" : "Japan",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Spain",
+          "year" : 2016
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Canada",
+          "host" : "Uruguay",
+          "runnerUp" : "Mexico",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "New Zealand",
+          "year" : 2018
+        },
+        {
+          "champion" : "Spain",
+          "fourth" : "Germany",
+          "host" : "India",
+          "runnerUp" : "Colombia",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "Nigeria",
+          "year" : 2022
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "England",
+          "host" : "Dominican Republic",
+          "runnerUp" : "Spain",
+          "summary" : [
+
+          ],
+          "teams" : 16,
+          "third" : "United States",
+          "year" : 2024
+        },
+        {
+          "champion" : "North Korea",
+          "fourth" : "Brazil",
+          "host" : "Morocco",
+          "runnerUp" : "Netherlands",
+          "summary" : [
+            "North Korea beat the Netherlands 3–0 in the final to retain the title and win a record fourth."
+          ],
+          "teams" : 24,
+          "third" : "Mexico",
+          "year" : 2025
+        },
+        {
+          "champion" : "Nigeria",
+          "fourth" : "Brazil",
+          "host" : "Morocco",
+          "runnerUp" : "Japan",
+          "summary" : [
+            "Nigeria beat Japan 2–1 in the final to win their first title, the first for an African nation in any FIFA women's tournament.",
+            "North Korea took third place with a 6–0 win over Brazil after losing to Japan on penalties in the semi-final.",
+            "The tournament ran from 17 October to 7 November 2026."
+          ],
+          "teams" : 24,
+          "third" : "North Korea",
+          "year" : 2026
+        }
+      ],
+      "groups" : [
+
+      ],
+      "id" : "u17girls",
+      "latestHeadline" : "Nigeria are the reigning champions after winning in 2026.",
+      "name" : "FIFA U-17 Women's World Cup",
+      "next" : {
+        "dates" : "To be confirmed",
+        "hosts" : "Morocco",
+        "keyDates" : [
+          {
+            "label" : "2027",
+            "value" : "Next edition, dates to be confirmed"
+          }
+        ],
+        "notes" : [
+          "The tournament is now played every year with 24 teams."
+        ],
+        "qualified" : [
+
+        ],
+        "qualifiedCount" : 0,
+        "status" : "Morocco hosts the tournament every year from 2025 to 2029. Dates haven't been confirmed and qualifying hasn't been completed.",
+        "teams" : 24,
+        "title" : "FIFA U-17 Women's World Cup 2027",
+        "venues" : [
+          {
+            "label" : "Morocco",
+            "value" : "Host country"
+          }
+        ]
+      },
+      "results" : [
+        {
+          "away" : "Japan",
+          "awayScore" : 1,
+          "date" : "Nov 7, 2026",
+          "detail" : [
+            "Nigeria won their first title, the first for an African nation in any FIFA women's tournament."
+          ],
+          "home" : "Nigeria",
+          "homeScore" : 2,
+          "resultLabel" : "FT",
+          "special" : true,
+          "stage" : "Final",
+          "status" : "finished",
+          "tournament" : "FIFA U-17 Women's World Cup 2026",
+          "venue" : "Morocco"
+        },
+        {
+          "away" : "Brazil",
+          "awayScore" : 0,
+          "date" : "Nov 2026",
+          "detail" : [
+            "North Korea took third place after losing to Japan on penalties in the semi-final."
+          ],
+          "home" : "North Korea",
+          "homeScore" : 6,
+          "resultLabel" : "FT",
+          "special" : false,
+          "stage" : "Third-place match",
+          "status" : "finished",
+          "tournament" : "FIFA U-17 Women's World Cup 2026",
+          "venue" : "Morocco"
+        }
+      ],
+      "tabLabel" : "U17 Girls"
+    }
+  ],
+  "confederations" : [
+    {
+      "colorHex" : 7115775,
+      "full" : "Union of European Football Associations",
+      "id" : "uefa",
+      "members" : 55,
+      "name" : "UEFA",
+      "qualifiedTeams" : [
+        "Spain",
+        "Portugal"
+      ],
+      "qualifyingStatus" : "Qualifying hasn't started. UEFA announced format changes in 2026 and full details are expected in late 2026 or early 2027.",
+      "region" : "Europe",
+      "slots2026" : 16
+    },
+    {
+      "colorHex" : 58998,
+      "full" : "South American Football Confederation",
+      "id" : "conmebol",
+      "members" : 10,
+      "name" : "CONMEBOL",
+      "qualifiedTeams" : [
+        "Argentina",
+        "Uruguay",
+        "Paraguay"
+      ],
+      "qualifyingStatus" : "Qualifying hasn't started. Reports point to a start in the March 2027 international window; CONMEBOL hasn't confirmed this.",
+      "region" : "South America",
+      "slots2026" : 6
+    },
+    {
+      "colorHex" : 16766464,
+      "full" : "Confederation of African Football",
+      "id" : "caf",
+      "members" : 54,
+      "name" : "CAF",
+      "qualifiedTeams" : [
+        "Morocco"
+      ],
+      "qualifyingStatus" : "Qualifying hasn't started. No official calendar has been published.",
+      "region" : "Africa",
+      "slots2026" : 9
+    },
+    {
+      "colorHex" : 16747095,
+      "full" : "Asian Football Confederation",
+      "id" : "afc",
+      "members" : 47,
+      "name" : "AFC",
+      "qualifiedTeams" : [
+
+      ],
+      "qualifyingStatus" : "Qualifying hasn't started. The AFC is reported to be setting its format after the 2027 Asian Cup in Saudi Arabia.",
+      "region" : "Asia",
+      "slots2026" : 8
+    },
+    {
+      "colorHex" : 3131626,
+      "full" : "Confederation of North, Central America and Caribbean Association Football",
+      "id" : "concacaf",
+      "members" : 41,
+      "name" : "CONCACAF",
+      "qualifiedTeams" : [
+
+      ],
+      "qualifyingStatus" : "Format announced in February 2026. Qualifying is expected to begin in September or October 2027.",
+      "region" : "N. & C. America",
+      "slots2026" : 6
+    },
+    {
+      "colorHex" : 13869311,
+      "full" : "Oceania Football Confederation",
+      "id" : "ofc",
+      "members" : 11,
+      "name" : "OFC",
+      "qualifiedTeams" : [
+
+      ],
+      "qualifyingStatus" : "Qualifying hasn't started. Dates and format haven't been published.",
+      "region" : "Oceania",
+      "slots2026" : 1
+    }
+  ],
+  "fifaRankingDate" : "7 October 2026",
+  "fixtures" : [
+    {
+      "date" : "Jun 8–9, 2030",
+      "detail" : [
+        "Three opening matches mark 100 years since the first World Cup, which Uruguay hosted and won in 1930.",
+        "Uruguay play at Estadio Centenario (Montevideo), Argentina at Estadio Monumental (Buenos Aires) and Paraguay at Estadio Osvaldo Domínguez Dibb (Asunción).",
+        "Opponents haven't been announced because the draw hasn't been held."
+      ],
+      "resultLabel" : "FT",
+      "special" : true,
+      "stage" : "Centenary matches",
+      "status" : "upcoming",
+      "title" : "Centenary matches in South America",
+      "tournament" : "FIFA World Cup 2030",
+      "venue" : "Montevideo · Buenos Aires · Asunción"
+    },
+    {
+      "date" : "Jun 13–14, 2030",
+      "detail" : [
+        "The tournament proper opens in the three main host countries.",
+        "The full match-by-match schedule will be published after the draw."
+      ],
+      "resultLabel" : "FT",
+      "special" : false,
+      "stage" : "Opening matches",
+      "status" : "upcoming",
+      "title" : "Opening ceremony and opening matches",
+      "tournament" : "FIFA World Cup 2030",
+      "venue" : "Morocco · Portugal · Spain"
+    },
+    {
+      "date" : "Jun 15–16, 2030",
+      "detail" : [
+        "These are the first group matches for the opponents of Uruguay, Argentina and Paraguay."
+      ],
+      "resultLabel" : "FT",
+      "special" : false,
+      "stage" : "Group stage",
+      "status" : "upcoming",
+      "title" : "First matches of the other teams in the centenary hosts' groups",
+      "tournament" : "FIFA World Cup 2030",
+      "venue" : "To be confirmed"
+    },
+    {
+      "date" : "Jun 21–22, 2030",
+      "detail" : [
+        "Second group matches for all teams in the groups of Uruguay, Argentina and Paraguay."
+      ],
+      "resultLabel" : "FT",
+      "special" : false,
+      "stage" : "Group stage",
+      "status" : "upcoming",
+      "title" : "Second matches of the centenary hosts' groups",
+      "tournament" : "FIFA World Cup 2030",
+      "venue" : "To be confirmed"
+    },
+    {
+      "date" : "Jul 21, 2030",
+      "detail" : [
+        "The final closes the tournament on 21 July 2030.",
+        "The venue isn't confirmed. Grand Stade Hassan II (Casablanca) and Santiago Bernabéu (Madrid) are the reported candidates."
+      ],
+      "resultLabel" : "FT",
+      "special" : false,
+      "stage" : "Final",
+      "status" : "upcoming",
+      "title" : "Final",
+      "tournament" : "FIFA World Cup 2030",
+      "venue" : "Venue to be confirmed"
+    },
+    {
+      "away" : "Argentina",
+      "awayScore" : 0,
+      "date" : "Jul 19, 2026",
+      "detail" : [
+        "Spain beat Argentina 1–0 after extra time. Ferran Torres scored in the 105th minute after a goalless 90 minutes plus stoppage time.",
+        "It was Spain's second World Cup title and its first since 2010. Argentina goalkeeper Emiliano Martínez made 11 saves, a record for a World Cup final."
+      ],
+      "home" : "Spain",
+      "homeScore" : 1,
+      "resultLabel" : "AET",
+      "special" : true,
+      "stage" : "Final",
+      "status" : "finished",
+      "tournament" : "FIFA World Cup 2026",
+      "venue" : "MetLife Stadium, New Jersey"
+    },
+    {
+      "away" : "France",
+      "awayScore" : 4,
+      "date" : "Jul 18, 2026",
+      "detail" : [
+        "England beat France 6–4 in the highest-scoring third-place match in World Cup history. Declan Rice scored in the third minute and England led 4–0 at half-time.",
+        "Bukayo Saka scored a hat trick. France fought back, but Jude Bellingham's late goal secured third place, England's best finish since winning in 1966."
+      ],
+      "home" : "England",
+      "homeScore" : 6,
+      "resultLabel" : "FT",
+      "special" : false,
+      "stage" : "Third-place match",
+      "status" : "finished",
+      "tournament" : "FIFA World Cup 2026",
+      "venue" : "Miami Gardens, Florida"
+    }
+  ],
+  "honours" : {
+    "Argentina" : {
+      "champions" : [
+        1978,
+        1986,
+        2022
+      ],
+      "runnersUp" : [
+        1930,
+        1990,
+        2014,
+        2026
+      ],
+      "third" : [
+
+      ]
+    },
+    "Austria" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        1954
+      ]
+    },
+    "Belgium" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        2018
+      ]
+    },
+    "Brazil" : {
+      "champions" : [
+        1958,
+        1962,
+        1970,
+        1994,
+        2002
+      ],
+      "runnersUp" : [
+        1950,
+        1998
+      ],
+      "third" : [
+        1938,
+        1978
+      ]
+    },
+    "Chile" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        1962
+      ]
+    },
+    "Croatia" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+        2018
+      ],
+      "third" : [
+        1998,
+        2022
+      ]
+    },
+    "Czechoslovakia" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+        1934,
+        1962
+      ],
+      "third" : [
+
+      ]
+    },
+    "England" : {
+      "champions" : [
+        1966
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        2026
+      ]
+    },
+    "France" : {
+      "champions" : [
+        1998,
+        2018
+      ],
+      "runnersUp" : [
+        2006,
+        2022
+      ],
+      "third" : [
+        1958,
+        1986
+      ]
+    },
+    "Germany" : {
+      "champions" : [
+        1954,
+        1974,
+        1990,
+        2014
+      ],
+      "runnersUp" : [
+        1966,
+        1982,
+        1986,
+        2002
+      ],
+      "third" : [
+        1934,
+        1970,
+        2006,
+        2010
+      ]
+    },
+    "Hungary" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+        1938,
+        1954
+      ],
+      "third" : [
+
+      ]
+    },
+    "Italy" : {
+      "champions" : [
+        1934,
+        1938,
+        1982,
+        2006
+      ],
+      "runnersUp" : [
+        1970,
+        1994
+      ],
+      "third" : [
+        1990
+      ]
+    },
+    "Netherlands" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+        1974,
+        1978,
+        2010
+      ],
+      "third" : [
+        2014
+      ]
+    },
+    "Poland" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        1974,
+        1982
+      ]
+    },
+    "Portugal" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        1966
+      ]
+    },
+    "Spain" : {
+      "champions" : [
+        2010,
+        2026
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+
+      ]
+    },
+    "Sweden" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+        1958
+      ],
+      "third" : [
+        1950,
+        1994
+      ]
+    },
+    "Türkiye" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        2002
+      ]
+    },
+    "USA" : {
+      "champions" : [
+
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+        1930
+      ]
+    },
+    "Uruguay" : {
+      "champions" : [
+        1930,
+        1950
+      ],
+      "runnersUp" : [
+
+      ],
+      "third" : [
+
+      ]
+    }
+  },
+  "hostCountries" : [
+    {
+      "cities" : "9 cities, including Madrid, Barcelona, Bilbao and Seville",
+      "code" : "ESP",
+      "confederation" : "UEFA",
+      "name" : "Spain",
+      "note" : "Spain won the 2026 World Cup, its second title, and is the first defending champion to host the next tournament. Its final stadium list is still provisional.",
+      "role" : "Host nation",
+      "stadiums" : 11
+    },
+    {
+      "cities" : "Lisbon and Porto",
+      "code" : "POR",
+      "confederation" : "UEFA",
+      "name" : "Portugal",
+      "note" : "Portugal hosts matches at three stadiums in two cities.",
+      "role" : "Host nation",
+      "stadiums" : 3
+    },
+    {
+      "cities" : "Agadir, Casablanca, Fez, Marrakesh, Rabat and Tangier",
+      "code" : "MAR",
+      "confederation" : "CAF",
+      "name" : "Morocco",
+      "note" : "Morocco's Grand Stade Hassan II in Casablanca is competing with Madrid's Santiago Bernabéu to host the final. No decision has been made.",
+      "role" : "Host nation",
+      "stadiums" : 6
+    },
+    {
+      "cities" : "Montevideo · Estadio Centenario",
+      "code" : "URU",
+      "confederation" : "CONMEBOL",
+      "name" : "Uruguay",
+      "note" : "Uruguay hosted and won the first World Cup in 1930. Estadio Centenario stages a centenary match.",
+      "role" : "Centenary match host",
+      "stadiums" : 1
+    },
+    {
+      "cities" : "Buenos Aires · Estadio Monumental",
+      "code" : "ARG",
+      "confederation" : "CONMEBOL",
+      "name" : "Argentina",
+      "note" : "Argentina hosts a centenary match. It won the 2022 World Cup and was runner-up in 2026.",
+      "role" : "Centenary match host",
+      "stadiums" : 1
+    },
+    {
+      "cities" : "Asunción · Estadio Osvaldo Domínguez Dibb",
+      "code" : "PAR",
+      "confederation" : "CONMEBOL",
+      "name" : "Paraguay",
+      "note" : "Paraguay hosts a centenary match at Estadio Osvaldo Domínguez Dibb.",
+      "role" : "Centenary match host",
+      "stadiums" : 1
+    }
+  ],
+  "lastUpdated" : "10 November 2026",
+  "mens" : {
+    "bannerDates" : "8 Jun – 21 Jul 2030",
+    "bannerTitle" : "World Cup 2030",
+    "centenaryText" : "Three centenary matches on 8–9 June 2030 mark 100 years since the first World Cup, held in Uruguay in 1930. They are staged in Montevideo, Buenos Aires and Asunción.",
+    "centenaryTitle" : "A Century of Global Football",
+    "championName" : "Spain",
+    "championText" : "Beat Argentina 1–0 after extra time in the FIFA World Cup 2026 final on 19 July 2026. Third place: England. Fourth place: France.",
+    "confederationsIntro" : "Each confederation runs its own qualifying competition. FIFA hasn't published the 2030 slot allocation, so the slot counts shown are from the 2026 World Cup.",
+    "heroText" : "An independent guide to the 2030 World Cup, spanning six host nations, three continents and every qualification pathway.",
+    "historyAppearancesFootnote" : "Ranking method: the number of World Cup finals tournaments a nation has played in, from 1930 to 2026 (23 tournaments). Nations with the same total share a rank. Following FIFA, predecessor teams count toward today's nation: Germany includes West Germany, Serbia includes Yugoslavia, Russia includes the Soviet Union, and the Czech Republic includes Czechoslovakia. East Germany and Slovakia are listed separately.",
+    "historyPodiumFootnote" : "Ranking method: titles first, then runner-up finishes, then third places. Nations with identical records share a rank. Germany includes West Germany. Czechoslovakia is listed separately from the Czech Republic and Slovakia. Records run from 1930 to the 2026 final.",
+    "historyRange" : "1930–2026",
+    "hostContinents" : 3,
+    "keyDatesSubtitle" : "FIFA World Cup 2030 · 8 Jun – 21 Jul 2030",
+    "matchesIntro" : "The 2030 draw hasn't been held, so teams and pairings aren't known yet. Dates below are the published schedule milestones.",
+    "matchesSubtitle" : "Key dates and latest results by tournament",
+    "noGroupsNote" : "Qualifying for 2030 hasn't started, so no group or pot has been assigned.",
+    "plannedTeams" : 48,
+    "playoffFacts" : [
+      {
+        "label" : "2026 format",
+        "value" : "6 teams, 2 places"
+      },
+      {
+        "label" : "2030 format",
+        "value" : "To be confirmed"
+      }
+    ],
+    "playoffHeadline" : "2 places in 2026",
+    "playoffParagraphs" : [
+      "In 2026, six teams from outside UEFA and CONMEBOL played off for the final two places. FIFA hasn't confirmed whether the same system applies in 2030."
+    ],
+    "playoffSub" : "2030 format to be confirmed",
+    "playoffTitle" : "Inter-confederation play-off",
+    "progressNote" : "Qualifying for the other places hasn't started in any confederation as of November 2026.",
+    "rankingExplainer" : "Rank is each nation's position in the official FIFA/Coca-Cola Men's World Ranking (7 October 2026 release, the first update after the 2026 World Cup). FIFA orders teams by ranking points earned from recent match results, weighted by match importance, opponent strength and confederation. It is separate from the History tab, which orders nations by World Cup podium finishes. Spain ranks first as 2026 World Cup champions, ahead of runner-up Argentina.",
+    "slotsNote" : "FIFA hasn't published the 2030 slot allocation. The 2026 split (16 UEFA, 9 CAF, 8 AFC, 6 CONMEBOL, 6 CONCACAF, 1 OFC and 2 through an inter-confederation play-off) is the expected starting point. The six host places are reported to be deducted from their confederations' quotas.",
+    "statTiles" : [
+      {
+        "facts" : [
+          {
+            "label" : "Planned format",
+            "value" : "48 teams"
+          },
+          {
+            "label" : "Qualified so far",
+            "value" : "6 (the host nations)"
+          }
+        ],
+        "label" : "Teams",
+        "paragraphs" : [
+          "The tournament is planned for 48 teams, as in 2026. CONMEBOL has proposed a one-off 64-team tournament and FIFA hasn't formally closed the question, so the final number is still to be confirmed."
+        ],
+        "sub" : "planned, to be confirmed",
+        "subtitle" : "FIFA World Cup 2030",
+        "title" : "Teams",
+        "value" : "48"
+      },
+      {
+        "facts" : [
+          {
+            "label" : "Main hosts",
+            "value" : "Spain, Portugal, Morocco"
+          },
+          {
+            "label" : "Centenary match hosts",
+            "value" : "Uruguay, Argentina, Paraguay"
+          },
+          {
+            "label" : "Stadiums",
+            "value" : "23 (11 Spain, 3 Portugal, 6 Morocco, 3 South America)"
+          }
+        ],
+        "label" : "Host Nations",
+        "paragraphs" : [
+          "All six nations qualify automatically. Spain, Portugal and Morocco stage the tournament; Uruguay, Argentina and Paraguay each stage one centenary match."
+        ],
+        "sub" : "3 continents",
+        "subtitle" : "Europe · Africa · South America",
+        "title" : "Host nations",
+        "value" : "6"
+      },
+      {
+        "facts" : [
+
+        ],
+        "label" : "Confederations",
+        "paragraphs" : [
+          "Each of the six FIFA confederations runs its own qualifying competition. Open the Confederations tab for the status of each one."
+        ],
+        "sub" : "every continent",
+        "subtitle" : "UEFA · CONMEBOL · CAF · AFC · CONCACAF · OFC",
+        "title" : "Confederations",
+        "value" : "6"
+      },
+      {
+        "facts" : [
+          {
+            "label" : "Matches with 48 teams",
+            "value" : "104"
+          },
+          {
+            "label" : "Matches with 64 teams",
+            "value" : "128"
+          }
+        ],
+        "label" : "Matches",
+        "paragraphs" : [
+          "The match count depends on the final team count. The full match-by-match schedule will be published after the draw."
+        ],
+        "sub" : "if 48 teams are confirmed",
+        "subtitle" : "FIFA World Cup 2030 · 8 Jun – 21 Jul 2030",
+        "title" : "Matches",
+        "value" : "104"
+      }
+    ],
+    "statusAsOf" : "November 2026",
+    "teamsListNote" : "FIFA top 30 shown",
+    "teamsNote" : "Only the six host nations have qualified for 2030, so groups and pots will be set after the draw.",
+    "totalTournaments" : 23,
+    "tournaments" : [
+      {
+        "name" : "FIFA World Cup 2030",
+        "sub" : "Spain · Portugal · Morocco, with centenary matches in Uruguay, Argentina and Paraguay · 8 Jun – 21 Jul 2030"
+      },
+      {
+        "name" : "FIFA World Cup 2026",
+        "sub" : "USA · Canada · Mexico · latest results"
+      }
+    ]
+  },
+  "schemaVersion" : 1,
+  "teams" : [
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 1,
+      "host" : true,
+      "name" : "Spain",
+      "qualified" : true
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 2,
+      "host" : true,
+      "name" : "Argentina",
+      "qualified" : true
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 3,
+      "host" : false,
+      "name" : "France",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 4,
+      "host" : false,
+      "name" : "England",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 5,
+      "host" : true,
+      "name" : "Portugal",
+      "qualified" : true
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 6,
+      "host" : false,
+      "name" : "Brazil",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 7,
+      "host" : true,
+      "name" : "Morocco",
+      "qualified" : true
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 8,
+      "host" : false,
+      "name" : "Belgium",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 9,
+      "host" : false,
+      "name" : "Netherlands",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONCACAF",
+      "fifaRank" : 10,
+      "host" : false,
+      "name" : "Mexico",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 11,
+      "host" : false,
+      "name" : "Colombia",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 12,
+      "host" : false,
+      "name" : "Switzerland",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 13,
+      "host" : false,
+      "name" : "Germany",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 14,
+      "host" : false,
+      "name" : "Croatia",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 15,
+      "host" : false,
+      "name" : "Italy",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONCACAF",
+      "fifaRank" : 16,
+      "host" : false,
+      "name" : "USA",
+      "qualified" : false
+    },
+    {
+      "confederation" : "AFC",
+      "fifaRank" : 17,
+      "host" : false,
+      "name" : "Japan",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 18,
+      "host" : false,
+      "name" : "Senegal",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 19,
+      "host" : false,
+      "name" : "Norway",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 20,
+      "host" : true,
+      "name" : "Uruguay",
+      "qualified" : true
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 21,
+      "host" : false,
+      "name" : "Denmark",
+      "qualified" : false
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 22,
+      "host" : false,
+      "name" : "Austria",
+      "qualified" : false
+    },
+    {
+      "confederation" : "AFC",
+      "fifaRank" : 23,
+      "host" : false,
+      "name" : "Iran",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 24,
+      "host" : false,
+      "name" : "Ecuador",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 25,
+      "host" : false,
+      "name" : "Egypt",
+      "qualified" : false
+    },
+    {
+      "confederation" : "AFC",
+      "fifaRank" : 26,
+      "host" : false,
+      "name" : "Australia",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONCACAF",
+      "fifaRank" : 27,
+      "host" : false,
+      "name" : "Canada",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 28,
+      "host" : false,
+      "name" : "Algeria",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 29,
+      "host" : false,
+      "name" : "Ivory Coast",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 30,
+      "host" : false,
+      "name" : "Nigeria",
+      "qualified" : false
+    },
+    {
+      "confederation" : "CONMEBOL",
+      "fifaRank" : 33,
+      "host" : true,
+      "name" : "Paraguay",
+      "qualified" : true
+    }
+  ]
+}
