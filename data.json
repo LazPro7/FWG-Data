@@ -455,7 +455,7 @@
           "host" : "Australia and New Zealand",
           "runnerUp" : "England",
           "summary" : [
-            "Spain beat England 1–0 in the final in Sydney to win their first Women's World Cup.",
+            "Spain beat England 1–0 in the final in Sydney to win their first Women's World Game.",
             "Sweden took third place, beating co-hosts Australia in the bronze-medal match."
           ],
           "teams" : 32,
@@ -468,7 +468,7 @@
       ],
       "id" : "women",
       "latestHeadline" : "Spain are the reigning champions after winning in 2023.",
-      "name" : "FIFA Women's World Cup",
+      "name" : "Football Women's World Game",
       "next" : {
         "dates" : "24 Jun – 25 Jul 2027",
         "hosts" : "Brazil",
@@ -516,7 +516,7 @@
         "qualifiedCount" : 18,
         "status" : "Qualifying is under way and runs until 27 February 2027.",
         "teams" : 32,
-        "title" : "FIFA Women's World Cup 2027",
+        "title" : "Football Women's World Game 2027",
         "venues" : [
           {
             "label" : "Rio de Janeiro",
@@ -558,7 +558,7 @@
           "awayScore" : 0,
           "date" : "Aug 20, 2023",
           "detail" : [
-            "Spain beat England 1–0 to win their first Women's World Cup."
+            "Spain beat England 1–0 to win their first Women's World Game."
           ],
           "home" : "Spain",
           "homeScore" : 1,
@@ -566,7 +566,7 @@
           "special" : true,
           "stage" : "Final",
           "status" : "finished",
-          "tournament" : "FIFA Women's World Cup 2023",
+          "tournament" : "Football Women's World Game 2023",
           "venue" : "Stadium Australia, Sydney"
         },
         {
@@ -582,7 +582,7 @@
           "special" : false,
           "stage" : "Third-place match",
           "status" : "finished",
-          "tournament" : "FIFA Women's World Cup 2023",
+          "tournament" : "Football Women's World Game 2023",
           "venue" : "Suncorp Stadium, Brisbane"
         }
       ],
@@ -892,7 +892,7 @@
       ],
       "id" : "u20boys",
       "latestHeadline" : "Morocco are the reigning champions after winning in 2025.",
-      "name" : "FIFA U-20 World Cup",
+      "name" : "Football U-20 World Game",
       "next" : {
         "dates" : "17 Sep – 9 Oct 2027",
         "hosts" : "Azerbaijan and Uzbekistan",
@@ -930,7 +930,7 @@
         "qualifiedCount" : 12,
         "status" : "Twelve of 24 places are filled. The remaining qualifiers are played in the first half of 2027.",
         "teams" : 24,
-        "title" : "FIFA U-20 World Cup 2027",
+        "title" : "Football U-20 World Game 2027",
         "venues" : [
           {
             "label" : "Azerbaijan",
@@ -948,7 +948,7 @@
           "awayScore" : 0,
           "date" : "Oct 19, 2025",
           "detail" : [
-            "Morocco won their first U-20 World Cup title. Othmane Maamma of Morocco won the Golden Ball."
+            "Morocco won their first U-20 World Game title. Othmane Maamma of Morocco won the Golden Ball."
           ],
           "home" : "Morocco",
           "homeScore" : 2,
@@ -956,7 +956,7 @@
           "special" : true,
           "stage" : "Final",
           "status" : "finished",
-          "tournament" : "FIFA U-20 World Cup 2025",
+          "tournament" : "Football U-20 World Game 2025",
           "venue" : "Chile"
         },
         {
@@ -972,7 +972,7 @@
           "special" : false,
           "stage" : "Third-place match",
           "status" : "finished",
-          "tournament" : "FIFA U-20 World Cup 2025",
+          "tournament" : "Football U-20 World Game 2025",
           "venue" : "Chile"
         }
       ],
@@ -1137,7 +1137,7 @@
       ],
       "id" : "u20girls",
       "latestHeadline" : "Spain are the reigning champions after winning in 2026.",
-      "name" : "FIFA U-20 Women's World Cup",
+      "name" : "Football U-20 Women's World Game",
       "next" : {
         "dates" : "To be confirmed",
         "hosts" : "To be confirmed",
@@ -1156,7 +1156,7 @@
         "qualifiedCount" : 0,
         "status" : "The host and dates haven't been announced and qualifying hasn't started.",
         "teams" : 24,
-        "title" : "FIFA U-20 Women's World Cup 2028",
+        "title" : "Football U-20 Women's World Game 2028",
         "venues" : [
           {
             "label" : "Host",
@@ -1178,7 +1178,7 @@
           "special" : true,
           "stage" : "Final",
           "status" : "finished",
-          "tournament" : "FIFA U-20 Women's World Cup 2026",
+          "tournament" : "Football U-20 Women's World Game 2026",
           "venue" : "Stadion Miejski LKS Łódź, Poland"
         },
         {
@@ -1194,7 +1194,7 @@
           "special" : false,
           "stage" : "Third-place match",
           "status" : "finished",
-          "tournament" : "FIFA U-20 Women's World Cup 2026",
+          "tournament" : "Football U-20 Women's World Game 2026",
           "venue" : "Poland"
         }
       ],
@@ -1442,7 +1442,7 @@
           "host" : "Qatar",
           "runnerUp" : "Austria",
           "summary" : [
-            "Portugal beat Austria 1–0 in the final to win their first U-17 World Cup. It was the first edition with 48 teams."
+            "Portugal beat Austria 1–0 in the final to win their first U-17 World Game. It was the first edition with 48 teams."
           ],
           "teams" : 48,
           "third" : "Italy",
@@ -1460,7 +1460,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group A: Qatar, Panama, Egypt, Greece",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1473,7 +1473,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group B: South Korea, Uganda, New Caledonia, Ecuador",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1486,7 +1486,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group C: Argentina, Australia, Mozambique, Denmark",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1499,7 +1499,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group D: France, Haiti, Saudi Arabia, Uruguay",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1512,7 +1512,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group E: Italy, Jamaica, Ivory Coast, Uzbekistan",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1525,7 +1525,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group F: Senegal, Croatia, Cuba, Tajikistan",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1538,7 +1538,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group G: Mali, New Zealand, Belgium, Vietnam",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1551,7 +1551,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group H: Spain, China PR, Fiji, Morocco",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1564,7 +1564,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group I: Brazil, Republic of Ireland, Tanzania, Costa Rica",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1577,7 +1577,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group J: United States, Montenegro, Chile, Algeria",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1590,7 +1590,7 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group K: Mexico, Romania, Cameroon, Venezuela",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         },
         {
@@ -1603,13 +1603,13 @@
           "stage" : "Group stage",
           "status" : "upcoming",
           "title" : "Group L: Japan, Colombia, Serbia, Honduras",
-          "tournament" : "FIFA U-17 World Cup 2026",
+          "tournament" : "Football U-17 World Game 2026",
           "venue" : "Aspire Zone, Al Rayyan"
         }
       ],
       "id" : "u17boys",
       "latestHeadline" : "Portugal are the reigning champions after winning in 2025.",
-      "name" : "FIFA U-17 World Cup",
+      "name" : "Football U-17 World Game",
       "next" : {
         "dates" : "19 Nov – 13 Dec 2026",
         "hosts" : "Qatar",
@@ -1679,7 +1679,7 @@
         "qualifiedCount" : 48,
         "status" : "All 48 teams are confirmed and the draw was held in Zurich on 21 May 2026.",
         "teams" : 48,
-        "title" : "FIFA U-17 World Cup 2026",
+        "title" : "Football U-17 World Game 2026",
         "venues" : [
           {
             "label" : "Al Rayyan",
@@ -1697,7 +1697,7 @@
           "awayScore" : 0,
           "date" : "Nov 2025",
           "detail" : [
-            "Portugal won their first U-17 World Cup."
+            "Portugal won their first U-17 World Game."
           ],
           "home" : "Portugal",
           "homeScore" : 1,
@@ -1705,7 +1705,7 @@
           "special" : true,
           "stage" : "Final",
           "status" : "finished",
-          "tournament" : "FIFA U-17 World Cup 2025",
+          "tournament" : "Football U-17 World Game 2025",
           "venue" : "Qatar"
         }
       ],
@@ -1832,7 +1832,7 @@
           "host" : "Morocco",
           "runnerUp" : "Japan",
           "summary" : [
-            "Nigeria beat Japan 2–1 in the final to win their first title, the first for an African nation in any FIFA women's tournament.",
+            "Nigeria beat Japan 2–1 in the final to win their first title, the first for an African nation in any football women's tournament.",
             "North Korea took third place with a 6–0 win over Brazil after losing to Japan on penalties in the semi-final.",
             "The tournament ran from 17 October to 7 November 2026."
           ],
@@ -1846,7 +1846,7 @@
       ],
       "id" : "u17girls",
       "latestHeadline" : "Nigeria are the reigning champions after winning in 2026.",
-      "name" : "FIFA U-17 Women's World Cup",
+      "name" : "Football U-17 Women's World Game",
       "next" : {
         "dates" : "To be confirmed",
         "hosts" : "Morocco",
@@ -1865,7 +1865,7 @@
         "qualifiedCount" : 0,
         "status" : "Morocco hosts the tournament every year from 2025 to 2029. Dates haven't been confirmed and qualifying hasn't been completed.",
         "teams" : 24,
-        "title" : "FIFA U-17 Women's World Cup 2027",
+        "title" : "Football U-17 Women's World Game 2027",
         "venues" : [
           {
             "label" : "Morocco",
@@ -1879,7 +1879,7 @@
           "awayScore" : 1,
           "date" : "Nov 7, 2026",
           "detail" : [
-            "Nigeria won their first title, the first for an African nation in any FIFA women's tournament."
+            "Nigeria won their first title, the first for an African nation in any football women's tournament."
           ],
           "home" : "Nigeria",
           "homeScore" : 2,
@@ -1887,7 +1887,7 @@
           "special" : true,
           "stage" : "Final",
           "status" : "finished",
-          "tournament" : "FIFA U-17 Women's World Cup 2026",
+          "tournament" : "Football U-17 Women's World Game 2026",
           "venue" : "Morocco"
         },
         {
@@ -1903,7 +1903,7 @@
           "special" : false,
           "stage" : "Third-place match",
           "status" : "finished",
-          "tournament" : "FIFA U-17 Women's World Cup 2026",
+          "tournament" : "Football U-17 Women's World Game 2026",
           "venue" : "Morocco"
         }
       ],
@@ -1998,7 +1998,7 @@
     {
       "date" : "Jun 8–9, 2030",
       "detail" : [
-        "Three opening matches mark 100 years since the first World Cup, which Uruguay hosted and won in 1930.",
+        "Three opening matches mark 100 years since the first World Game, which Uruguay hosted and won in 1930.",
         "Uruguay play at Estadio Centenario (Montevideo), Argentina at Estadio Monumental (Buenos Aires) and Paraguay at Estadio Osvaldo Domínguez Dibb (Asunción).",
         "Opponents haven't been announced because the draw hasn't been held."
       ],
@@ -2007,7 +2007,7 @@
       "stage" : "Centenary matches",
       "status" : "upcoming",
       "title" : "Centenary matches in South America",
-      "tournament" : "FIFA World Cup 2030",
+      "tournament" : "Football World Game 2030",
       "venue" : "Montevideo · Buenos Aires · Asunción"
     },
     {
@@ -2021,7 +2021,7 @@
       "stage" : "Opening matches",
       "status" : "upcoming",
       "title" : "Opening ceremony and opening matches",
-      "tournament" : "FIFA World Cup 2030",
+      "tournament" : "Football World Game 2030",
       "venue" : "Morocco · Portugal · Spain"
     },
     {
@@ -2034,7 +2034,7 @@
       "stage" : "Group stage",
       "status" : "upcoming",
       "title" : "First matches of the other teams in the centenary hosts' groups",
-      "tournament" : "FIFA World Cup 2030",
+      "tournament" : "Football World Game 2030",
       "venue" : "To be confirmed"
     },
     {
@@ -2047,7 +2047,7 @@
       "stage" : "Group stage",
       "status" : "upcoming",
       "title" : "Second matches of the centenary hosts' groups",
-      "tournament" : "FIFA World Cup 2030",
+      "tournament" : "Football World Game 2030",
       "venue" : "To be confirmed"
     },
     {
@@ -2061,7 +2061,7 @@
       "stage" : "Final",
       "status" : "upcoming",
       "title" : "Final",
-      "tournament" : "FIFA World Cup 2030",
+      "tournament" : "Football World Game 2030",
       "venue" : "Venue to be confirmed"
     },
     {
@@ -2070,7 +2070,7 @@
       "date" : "Jul 19, 2026",
       "detail" : [
         "Spain beat Argentina 1–0 after extra time. Ferran Torres scored in the 105th minute after a goalless 90 minutes plus stoppage time.",
-        "It was Spain's second World Cup title and its first since 2010. Argentina goalkeeper Emiliano Martínez made 11 saves, a record for a World Cup final."
+        "It was Spain's second World Game title and its first since 2010. Argentina goalkeeper Emiliano Martínez made 11 saves, a record for a World Game final."
       ],
       "home" : "Spain",
       "homeScore" : 1,
@@ -2078,7 +2078,7 @@
       "special" : true,
       "stage" : "Final",
       "status" : "finished",
-      "tournament" : "FIFA World Cup 2026",
+      "tournament" : "Football World Game 2026",
       "venue" : "MetLife Stadium, New Jersey"
     },
     {
@@ -2086,7 +2086,7 @@
       "awayScore" : 4,
       "date" : "Jul 18, 2026",
       "detail" : [
-        "England beat France 6–4 in the highest-scoring third-place match in World Cup history. Declan Rice scored in the third minute and England led 4–0 at half-time.",
+        "England beat France 6–4 in the highest-scoring third-place match in World Game history. Declan Rice scored in the third minute and England led 4–0 at half-time.",
         "Bukayo Saka scored a hat trick. France fought back, but Jude Bellingham's late goal secured third place, England's best finish since winning in 1966."
       ],
       "home" : "England",
@@ -2095,7 +2095,7 @@
       "special" : false,
       "stage" : "Third-place match",
       "status" : "finished",
-      "tournament" : "FIFA World Cup 2026",
+      "tournament" : "Football World Game 2026",
       "venue" : "Miami Gardens, Florida"
     }
   ],
@@ -2363,7 +2363,7 @@
       "code" : "ESP",
       "confederation" : "UEFA",
       "name" : "Spain",
-      "note" : "Spain won the 2026 World Cup, its second title, and is the first defending champion to host the next tournament. Its final stadium list is still provisional.",
+      "note" : "Spain won the 2026 World Game, its second title, and is the first defending champion to host the next tournament. Its final stadium list is still provisional.",
       "role" : "Host nation",
       "stadiums" : 11
     },
@@ -2390,7 +2390,7 @@
       "code" : "URU",
       "confederation" : "CONMEBOL",
       "name" : "Uruguay",
-      "note" : "Uruguay hosted and won the first World Cup in 1930. Estadio Centenario stages a centenary match.",
+      "note" : "Uruguay hosted and won the first World Game in 1930. Estadio Centenario stages a centenary match.",
       "role" : "Centenary match host",
       "stadiums" : 1
     },
@@ -2399,7 +2399,7 @@
       "code" : "ARG",
       "confederation" : "CONMEBOL",
       "name" : "Argentina",
-      "note" : "Argentina hosts a centenary match. It won the 2022 World Cup and was runner-up in 2026.",
+      "note" : "Argentina hosts a centenary match. It won the 2022 World Game and was runner-up in 2026.",
       "role" : "Centenary match host",
       "stadiums" : 1
     },
@@ -2413,21 +2413,21 @@
       "stadiums" : 1
     }
   ],
-  "lastUpdated" : "11 November 2026",
+  "lastUpdated" : "10 November 2026",
   "mens" : {
     "bannerDates" : "8 Jun – 21 Jul 2030",
-    "bannerTitle" : "World Cup 2030",
-    "centenaryText" : "Three centenary matches on 8–9 June 2030 mark 100 years since the first World Cup, held in Uruguay in 1930. They are staged in Montevideo, Buenos Aires and Asunción.",
+    "bannerTitle" : "World Game 2030",
+    "centenaryText" : "Three centenary matches on 8–9 June 2030 mark 100 years since the first World Game, held in Uruguay in 1930. They are staged in Montevideo, Buenos Aires and Asunción.",
     "centenaryTitle" : "A Century of Global Football",
     "championName" : "Spain",
-    "championText" : "Beat Argentina 1–0 after extra time in the FIFA World Cup 2026 final on 19 July 2026. Third place: England. Fourth place: France.",
-    "confederationsIntro" : "Each confederation runs its own qualifying competition. FIFA hasn't published the 2030 slot allocation, so the slot counts shown are from the 2026 World Cup.",
-    "heroText" : "An independent guide to the 2030 World Cup, spanning six host nations, three continents and every qualification pathway.",
-    "historyAppearancesFootnote" : "Ranking method: the number of World Cup finals tournaments a nation has played in, from 1930 to 2026 (23 tournaments). Nations with the same total share a rank. Following FIFA, predecessor teams count toward today's nation: Germany includes West Germany, Serbia includes Yugoslavia, Russia includes the Soviet Union, and the Czech Republic includes Czechoslovakia. East Germany and Slovakia are listed separately.",
+    "championText" : "Beat Argentina 1–0 after extra time in the Football World Game 2026 final on 19 July 2026. Third place: England. Fourth place: France.",
+    "confederationsIntro" : "Each confederation runs its own qualifying competition. Football's governing body hasn't published the 2030 slot allocation, so the slot counts shown are from the 2026 World Game.",
+    "heroText" : "An independent guide to the 2030 World Game, spanning six host nations, three continents and every qualification pathway.",
+    "historyAppearancesFootnote" : "Ranking method: the number of World Game finals tournaments a nation has played in, from 1930 to 2026 (23 tournaments). Nations with the same total share a rank. Following football's governing body, predecessor teams count toward today's nation: Germany includes West Germany, Serbia includes Yugoslavia, Russia includes the Soviet Union, and the Czech Republic includes Czechoslovakia. East Germany and Slovakia are listed separately.",
     "historyPodiumFootnote" : "Ranking method: titles first, then runner-up finishes, then third places. Nations with identical records share a rank. Germany includes West Germany. Czechoslovakia is listed separately from the Czech Republic and Slovakia. Records run from 1930 to the 2026 final.",
     "historyRange" : "1930–2026",
     "hostContinents" : 3,
-    "keyDatesSubtitle" : "FIFA World Cup 2030 · 8 Jun – 21 Jul 2030",
+    "keyDatesSubtitle" : "Football World Game 2030 · 8 Jun – 21 Jul 2030",
     "matchesIntro" : "The 2030 draw hasn't been held, so teams and pairings aren't known yet. Dates below are the published schedule milestones.",
     "matchesSubtitle" : "Key dates and latest results by tournament",
     "noGroupsNote" : "Qualifying for 2030 hasn't started, so no group or pot has been assigned.",
@@ -2444,13 +2444,13 @@
     ],
     "playoffHeadline" : "2 places in 2026",
     "playoffParagraphs" : [
-      "In 2026, six teams from outside UEFA and CONMEBOL played off for the final two places. FIFA hasn't confirmed whether the same system applies in 2030."
+      "In 2026, six teams from outside UEFA and CONMEBOL played off for the final two places. Football's governing body hasn't confirmed whether the same system applies in 2030."
     ],
     "playoffSub" : "2030 format to be confirmed",
     "playoffTitle" : "Inter-confederation play-off",
     "progressNote" : "Qualifying for the other places hasn't started in any confederation as of November 2026.",
-    "rankingExplainer" : "Rank is each nation's position in the official FIFA/Coca-Cola Men's World Ranking (7 October 2026 release, the first update after the 2026 World Cup). FIFA orders teams by ranking points earned from recent match results, weighted by match importance, opponent strength and confederation. It is separate from the History tab, which orders nations by World Cup podium finishes. Spain ranks first as 2026 World Cup champions, ahead of runner-up Argentina.",
-    "slotsNote" : "FIFA hasn't published the 2030 slot allocation. The 2026 split (16 UEFA, 9 CAF, 8 AFC, 6 CONMEBOL, 6 CONCACAF, 1 OFC and 2 through an inter-confederation play-off) is the expected starting point. The six host places are reported to be deducted from their confederations' quotas.",
+    "rankingExplainer" : "Rank is each nation's position in the official Men's Ranking (7 October 2026 release, the first update after the 2026 World Game). Football's governing body orders teams by ranking points earned from recent match results, weighted by match importance, opponent strength and confederation. It is separate from the History tab, which orders nations by World Game podium finishes. Spain ranks first as 2026 World Game champions, ahead of runner-up Argentina.",
+    "slotsNote" : "Football's governing body hasn't published the 2030 slot allocation. The 2026 split (16 UEFA, 9 CAF, 8 AFC, 6 CONMEBOL, 6 CONCACAF, 1 OFC and 2 through an inter-confederation play-off) is the expected starting point. The six host places are reported to be deducted from their confederations' quotas.",
     "statTiles" : [
       {
         "facts" : [
@@ -2465,10 +2465,10 @@
         ],
         "label" : "Teams",
         "paragraphs" : [
-          "The tournament is planned for 48 teams, as in 2026. CONMEBOL proposed a one-off 64-team tournament. In November 2026 The Times reported that FIFA president Gianni Infantino had told the confederation presidents he would not pursue the expansion, but FIFA hasn't made a formal announcement, so the final number is still to be confirmed."
+          "The tournament is planned for 48 teams, as in 2026. CONMEBOL has proposed a one-off 64-team tournament and football's governing body hasn't formally closed the question, so the final number is still to be confirmed."
         ],
         "sub" : "planned, to be confirmed",
-        "subtitle" : "FIFA World Cup 2030",
+        "subtitle" : "Football World Game 2030",
         "title" : "Teams",
         "value" : "48"
       },
@@ -2502,7 +2502,7 @@
         ],
         "label" : "Confederations",
         "paragraphs" : [
-          "Each of the six FIFA confederations runs its own qualifying competition. Open the Confederations tab for the status of each one."
+          "Each of the six football confederations runs its own qualifying competition. Open the Confederations tab for the status of each one."
         ],
         "sub" : "every continent",
         "subtitle" : "UEFA · CONMEBOL · CAF · AFC · CONCACAF · OFC",
@@ -2525,22 +2525,22 @@
           "The match count depends on the final team count. The full match-by-match schedule will be published after the draw."
         ],
         "sub" : "if 48 teams are confirmed",
-        "subtitle" : "FIFA World Cup 2030 · 8 Jun – 21 Jul 2030",
+        "subtitle" : "Football World Game 2030 · 8 Jun – 21 Jul 2030",
         "title" : "Matches",
         "value" : "104"
       }
     ],
     "statusAsOf" : "November 2026",
-    "teamsListNote" : "FIFA top 30 shown",
+    "teamsListNote" : "Football top 30 shown",
     "teamsNote" : "Only the six host nations have qualified for 2030, so groups and pots will be set after the draw.",
     "totalTournaments" : 23,
     "tournaments" : [
       {
-        "name" : "FIFA World Cup 2030",
+        "name" : "Football World Game 2030",
         "sub" : "Spain · Portugal · Morocco, with centenary matches in Uruguay, Argentina and Paraguay · 8 Jun – 21 Jul 2030"
       },
       {
-        "name" : "FIFA World Cup 2026",
+        "name" : "Football World Game 2026",
         "sub" : "USA · Canada · Mexico · latest results"
       }
     ]
