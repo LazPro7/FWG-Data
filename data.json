@@ -474,8 +474,8 @@
         "hosts" : "Brazil",
         "keyDates" : [
           {
-            "label" : "Nov – Dec 2026",
-            "value" : "First phase of the inter-confederation play-off tournament"
+            "label" : "28 Nov – 5 Dec 2026",
+            "value" : "First phase of the inter-confederation play-off tournament, in Rabat"
           },
           {
             "label" : "27 Feb 2027",
@@ -2413,7 +2413,7 @@
       "stadiums" : 1
     }
   ],
-  "lastUpdated" : "10 November 2026",
+  "lastUpdated" : "11 November 2026",
   "mens" : {
     "bannerDates" : "8 Jun – 21 Jul 2030",
     "bannerTitle" : "World Game 2030",
@@ -2465,7 +2465,7 @@
         ],
         "label" : "Teams",
         "paragraphs" : [
-          "The tournament is planned for 48 teams, as in 2026. CONMEBOL has proposed a one-off 64-team tournament and football's governing body hasn't formally closed the question, so the final number is still to be confirmed."
+          "The tournament is planned for 48 teams, as in 2026. CONMEBOL proposed a one-off 64-team tournament. In November 2026, The Times reported that the president of football's governing body had told the six confederation presidents he would not pursue the expansion, but no formal announcement has been made, so the final number is still to be confirmed."
         ],
         "sub" : "planned, to be confirmed",
         "subtitle" : "Football World Game 2030",
