@@ -1677,7 +1677,7 @@
           "Serbia"
         ],
         "qualifiedCount" : 48,
-        "status" : "All 48 teams are confirmed and the draw was held in Zurich on 21 May 2026.",
+        "status" : "The tournament started on 19 November 2026 at Aspire Zone in Al Rayyan. All 48 teams are confirmed and the draw was held in Zurich on 21 May 2026.",
         "teams" : 48,
         "title" : "Football U-17 World Game 2026",
         "venues" : [
@@ -1993,7 +1993,7 @@
       "slots2026" : 1
     }
   ],
-  "fifaRankingDate" : "7 October 2026",
+  "fifaRankingDate" : "18 November 2026",
   "fixtures" : [
     {
       "date" : "Jun 8–9, 2030",
@@ -2413,7 +2413,7 @@
       "stadiums" : 1
     }
   ],
-  "lastUpdated" : "18 November 2026",
+  "lastUpdated" : "19 November 2026",
   "mens" : {
     "bannerDates" : "8 Jun – 21 Jul 2030",
     "bannerTitle" : "World Game 2030",
@@ -2449,7 +2449,7 @@
     "playoffSub" : "2030 format to be confirmed",
     "playoffTitle" : "Inter-confederation play-off",
     "progressNote" : "Qualifying for the other places hasn't started in any confederation as of November 2026.",
-    "rankingExplainer" : "Rank is each nation's position in the official Men's Ranking (7 October 2026 release, the first update after the 2026 World Game). Football's governing body orders teams by ranking points earned from recent match results, weighted by match importance, opponent strength and confederation. It is separate from the History tab, which orders nations by World Game podium finishes. Spain ranks first as 2026 World Game champions, ahead of runner-up Argentina.",
+    "rankingExplainer" : "Rank is each nation's position in the official Men's Ranking (18 November 2026 release). Football's governing body orders teams by ranking points earned from recent match results, weighted by match importance, opponent strength and confederation. It is separate from the History tab, which orders nations by World Game podium finishes. Spain ranks first as 2026 World Game champions, ahead of runner-up Argentina.",
     "slotsNote" : "Football's governing body hasn't published the 2030 slot allocation. The 2026 split (16 UEFA, 9 CAF, 8 AFC, 6 CONMEBOL, 6 CONCACAF, 1 OFC and 2 through an inter-confederation play-off) is the expected starting point. The six host places are reported to be deducted from their confederations' quotas.",
     "statTiles" : [
       {
@@ -2576,25 +2576,25 @@
       "qualified" : false
     },
     {
-      "confederation" : "UEFA",
+      "confederation" : "CAF",
       "fifaRank" : 5,
+      "host" : true,
+      "name" : "Morocco",
+      "qualified" : true
+    },
+    {
+      "confederation" : "UEFA",
+      "fifaRank" : 6,
       "host" : true,
       "name" : "Portugal",
       "qualified" : true
     },
     {
       "confederation" : "CONMEBOL",
-      "fifaRank" : 6,
+      "fifaRank" : 7,
       "host" : false,
       "name" : "Brazil",
       "qualified" : false
-    },
-    {
-      "confederation" : "CAF",
-      "fifaRank" : 7,
-      "host" : true,
-      "name" : "Morocco",
-      "qualified" : true
     },
     {
       "confederation" : "UEFA",
@@ -2611,17 +2611,17 @@
       "qualified" : false
     },
     {
-      "confederation" : "CONCACAF",
+      "confederation" : "CONMEBOL",
       "fifaRank" : 10,
       "host" : false,
-      "name" : "Mexico",
+      "name" : "Colombia",
       "qualified" : false
     },
     {
-      "confederation" : "CONMEBOL",
+      "confederation" : "UEFA",
       "fifaRank" : 11,
       "host" : false,
-      "name" : "Colombia",
+      "name" : "Germany",
       "qualified" : false
     },
     {
@@ -2632,24 +2632,24 @@
       "qualified" : false
     },
     {
-      "confederation" : "UEFA",
+      "confederation" : "CONCACAF",
       "fifaRank" : 13,
       "host" : false,
-      "name" : "Germany",
+      "name" : "Mexico",
       "qualified" : false
     },
     {
       "confederation" : "UEFA",
       "fifaRank" : 14,
       "host" : false,
-      "name" : "Croatia",
+      "name" : "Italy",
       "qualified" : false
     },
     {
       "confederation" : "UEFA",
       "fifaRank" : 15,
       "host" : false,
-      "name" : "Italy",
+      "name" : "Croatia",
       "qualified" : false
     },
     {
@@ -2716,53 +2716,53 @@
       "qualified" : false
     },
     {
-      "confederation" : "CAF",
-      "fifaRank" : 25,
-      "host" : false,
-      "name" : "Egypt",
-      "qualified" : false
-    },
-    {
-      "confederation" : "AFC",
-      "fifaRank" : 26,
-      "host" : false,
-      "name" : "Australia",
-      "qualified" : false
-    },
-    {
       "confederation" : "CONCACAF",
-      "fifaRank" : 27,
+      "fifaRank" : 25,
       "host" : false,
       "name" : "Canada",
       "qualified" : false
     },
     {
       "confederation" : "CAF",
-      "fifaRank" : 28,
+      "fifaRank" : 26,
       "host" : false,
-      "name" : "Algeria",
+      "name" : "Egypt",
+      "qualified" : false
+    },
+    {
+      "confederation" : "AFC",
+      "fifaRank" : 27,
+      "host" : false,
+      "name" : "Australia",
       "qualified" : false
     },
     {
       "confederation" : "CAF",
-      "fifaRank" : 29,
+      "fifaRank" : 28,
       "host" : false,
       "name" : "Ivory Coast",
       "qualified" : false
     },
     {
       "confederation" : "CAF",
-      "fifaRank" : 30,
+      "fifaRank" : 29,
       "host" : false,
       "name" : "Nigeria",
       "qualified" : false
     },
     {
       "confederation" : "CONMEBOL",
-      "fifaRank" : 33,
+      "fifaRank" : 31,
       "host" : true,
       "name" : "Paraguay",
       "qualified" : true
+    },
+    {
+      "confederation" : "CAF",
+      "fifaRank" : 32,
+      "host" : false,
+      "name" : "Algeria",
+      "qualified" : false
     }
   ]
 }
