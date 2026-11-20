@@ -474,8 +474,16 @@
         "hosts" : "Brazil",
         "keyDates" : [
           {
+            "label" : "27–28 Nov 2026",
+            "value" : "Concacaf W Championship quarter-finals in Texas; the four winners qualify"
+          },
+          {
             "label" : "28 Nov – 5 Dec 2026",
             "value" : "First phase of the inter-confederation play-off tournament, in Rabat"
+          },
+          {
+            "label" : "1–5 Dec 2026",
+            "value" : "European play-off round 2; seven winners qualify, one goes to the inter-confederation play-off"
           },
           {
             "label" : "27 Feb 2027",
@@ -2413,7 +2421,7 @@
       "stadiums" : 1
     }
   ],
-  "lastUpdated" : "19 November 2026",
+  "lastUpdated" : "21 November 2026",
   "mens" : {
     "bannerDates" : "8 Jun – 21 Jul 2030",
     "bannerTitle" : "World Game 2030",
