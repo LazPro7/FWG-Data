@@ -486,6 +486,14 @@
             "value" : "European play-off round 2; seven winners qualify, one goes to the inter-confederation play-off"
           },
           {
+            "label" : "10 Dec 2026",
+            "value" : "Draw for the final phase of the inter-confederation play-off tournament"
+          },
+          {
+            "label" : "11 Dec 2026",
+            "value" : "Final draw at the Museum of Modern Art in Rio de Janeiro"
+          },
+          {
             "label" : "27 Feb 2027",
             "value" : "Qualifying period ends"
           },
@@ -2421,7 +2429,7 @@
       "stadiums" : 1
     }
   ],
-  "lastUpdated" : "23 November 2026",
+  "lastUpdated" : "24 November 2026",
   "mens" : {
     "bannerDates" : "8 Jun – 21 Jul 2030",
     "bannerTitle" : "World Game 2030",
